@@ -1,3 +1,3 @@
 #Demo file
 
-Learning Git and version control!
+Learning Git and version control.
